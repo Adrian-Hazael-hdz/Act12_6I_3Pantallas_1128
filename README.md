@@ -1,6 +1,7 @@
 # Act12_6I_3Pantallas_1128
 
 <img width="945" height="837" alt="image" src="https://github.com/user-attachments/assets/88581b4e-caff-4507-920b-ab63730e0139" />
+<img width="957" height="824" alt="image" src="https://github.com/user-attachments/assets/bf518ff5-488f-4cf7-ad4f-20866c9fcfa4" />
 <img width="954" height="837" alt="image" src="https://github.com/user-attachments/assets/02c4f6c0-d11e-404c-ad67-99abe1ffadf0" />
 <img width="950" height="829" alt="image" src="https://github.com/user-attachments/assets/d80a463e-4cba-4e2f-b70f-e2498954ff14" />
 <img width="440" height="746" alt="image" src="https://github.com/user-attachments/assets/f276a4de-6427-49b8-9b26-8d311fb8e585" />
